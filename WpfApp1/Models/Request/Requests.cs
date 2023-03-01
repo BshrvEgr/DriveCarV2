@@ -1,12 +1,9 @@
-﻿using MySql.Data.MySqlClient;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Net;
 using System.Text.Json;
 using WpfApp1.Models.Car;
-using WpfApp1.Models;
 using WpfApp1.Models.User;
 
 namespace WpfApp1

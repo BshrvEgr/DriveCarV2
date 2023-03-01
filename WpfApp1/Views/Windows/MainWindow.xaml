@@ -6,9 +6,9 @@
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
-        MinWidth="870"
+        MinWidth="1050"
         MinHeight="450"
-        Title="Прокат и Аренда авто в Волжском" Height="450" Width="870">
+        Title="Прокат и Аренда авто в Волжском" Height="450" Width="1050">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="70"/>

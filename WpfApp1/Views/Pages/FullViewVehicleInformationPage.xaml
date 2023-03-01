@@ -49,7 +49,7 @@
                            FontSize="16"
                            Margin="5 0 0 0"/>
 
-                <TextBlock Text="{Binding DateRelease, StringFormat= Year release: {0}}"
+                <TextBlock Text="{Binding DateRelease, StringFormat= Date release: {0}}"
                            FontSize="16"
                            Margin="55 0 0 0"/>
 
